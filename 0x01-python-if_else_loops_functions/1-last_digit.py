@@ -1,14 +1,15 @@
 #!/usr/bin/python3
 import random
-remainderber = random.randint(-10000, 10000)
-remainder = abs(remainderber) % 10
+number = random.randint(-10000, 10000)
+# YOUR CODE HERE
 
-if remainderber < 0:
-    remainder = -remainder
-print(f"Last remainder of {remainderber:d} is {remainder:d} and is ", end="")
+remainder = number % 10
+
+TEXT = "Last digit of " + str(number) + " is " + str(remainder)
+
 if remainder > 5:
-    print("greater than 5")
+    print(TEXT + " and is greater than 5")
 elif remainder == 0:
-    print("0")
+    print(TEXT + " and is 0")
 else:
-    print("less than 6 and not 0")
+    print(TEXT + " and is less than 6 and not 0")
