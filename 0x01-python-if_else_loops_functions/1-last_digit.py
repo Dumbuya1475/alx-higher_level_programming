@@ -12,4 +12,4 @@ if remainder > 5:
 elif remainder == 0:
     print(TEXT + " and is 0")
 else:
-    print(TEXT +" and is less than 6 and not 0")
+    print(TEXT + " and is less than 6 and not 0")
