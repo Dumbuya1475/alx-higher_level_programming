@@ -1,7 +1,9 @@
 #!/usr/bin/python3
 
 if __name__ == "__main__":
-    """A that prints the result of all the arguments passed"""
+    """
+    A that prints the result of all the arguments passed
+    """
     import sys
 
     result = 0
@@ -12,3 +14,4 @@ if __name__ == "__main__":
         for check in range(arg_len):
             result = result + int(sys.argv[check + 1])   
         print("{}".format(result))
+
