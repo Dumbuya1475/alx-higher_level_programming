@@ -12,4 +12,3 @@ if __name__ == "__main__":
         for check in range(arg_len):
             result = result + int(sys.argv[check + 1])   
         print("{}".format(result))
-
