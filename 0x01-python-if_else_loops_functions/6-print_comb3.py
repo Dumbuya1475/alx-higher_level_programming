@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# Author - Godswill Kalu
+# Author - Mohamed Super Dumbuya
 
 for num1 in range(0, 10):
     for num2 in range(num1 + 1, 10):

@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# Author - Godswill Kalu
+# Author - Mohamed Super Dumbuya
 
 def islower(c):
     """Function checks for lowercase characters."""
