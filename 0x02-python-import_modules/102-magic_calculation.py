@@ -9,10 +9,4 @@ def magic_calculation(a, b):
             c = add(c, i)
         return (c)
 
-<<<<<<< Updated upstream
-    else:
-        return(sub(a, b))
-
-=======
     return(sub(a, b))
->>>>>>> Stashed changes
