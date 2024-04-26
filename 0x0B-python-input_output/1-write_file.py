@@ -1,7 +1,10 @@
 #!/usr/bin/python3
 """Defines a file-writing function."""
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 69f966ee05059221ac9911ea4871ad8b5f77a395
 def write_file(filename="", text=""):
     """Write a string to a UTF8 text file.
 

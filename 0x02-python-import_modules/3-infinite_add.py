@@ -1,7 +1,13 @@
 #!/usr/bin/python3
 
 if __name__ == "__main__":
+<<<<<<< HEAD
     """A that prints the result of all the arguments passed"""
+=======
+    """
+    A that prints the result of all the arguments passed
+    """
+>>>>>>> 69f966ee05059221ac9911ea4871ad8b5f77a395
     import sys
 
     result = 0

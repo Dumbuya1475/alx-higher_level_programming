@@ -1,5 +1,8 @@
 #!/usr/bin/python3
+<<<<<<< HEAD
 
+=======
+>>>>>>> 69f966ee05059221ac9911ea4871ad8b5f77a395
 list_division = __import__('4-list_division').list_division
 
 my_l_1 = [10, 8, 4]
