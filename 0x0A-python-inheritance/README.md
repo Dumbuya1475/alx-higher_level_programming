@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 0x0A. Python - Inheritance
 
 As I am diving deeper in Object Oriented Programming (OOP) with python, this project introduce me to the concept of `inheritance`
@@ -30,3 +31,6 @@ In this project, I learnt:
 - [python documentation](https://docs.python.org/3/tutorial/classes.html#inheritance)
 - [analyticsvidhya.com](https://www.analyticsvidhya.com/blog/2020/10/inheritance-object-oriented-programming/#:~:text=super()%20function-,What%20is%20Inheritance%20in%20Object%20Oriented%20Programming%3F,known%20as%20the%20Parent%20class.)
 - [youtube](https://www.youtube.com/watch?v=d8kCdLCi6Lk)
+=======
+python_inheritance
+>>>>>>> main

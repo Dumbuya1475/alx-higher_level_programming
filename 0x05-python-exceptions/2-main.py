@@ -1,6 +1,10 @@
 #!/usr/bin/python3
 safe_print_list_integers = \
+<<<<<<< HEAD
+    __import__('2-safe_print_list_integers').safe_print_list_integers
+=======
  __import__('2-safe_print_list_integers').safe_print_list_integers
+>>>>>>> 69f966ee05059221ac9911ea4871ad8b5f77a395
 
 my_list = [1, 2, 3, 4, 5]
 

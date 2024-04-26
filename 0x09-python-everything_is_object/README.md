@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Higher Level Programming Projects
 
 * This repo contains all the projects that I have done in the alx-Holberton curriculum on Higher level programming.
@@ -11,3 +12,6 @@ A high-level language has a higher level of abstraction from the computer, and f
 * Projects * Description
 0x00-python-hello_world All about introduction to python. A bit about Technical interview prep
 .
+=======
+python-everything_is_object
+>>>>>>> main

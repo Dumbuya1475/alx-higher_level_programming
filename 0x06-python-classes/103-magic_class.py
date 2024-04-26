@@ -1,6 +1,10 @@
 #!/usr/bin/python3
 
+<<<<<<< HEAD
+"""Define a MagicClass matching exactly a bytecode provided by ALX."""
+=======
 """Define a MagicClass matching exactly a bytecode provided by Holberton."""
+>>>>>>> 69f966ee05059221ac9911ea4871ad8b5f77a395
 
 import math
 

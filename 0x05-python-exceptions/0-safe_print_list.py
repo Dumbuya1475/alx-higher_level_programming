@@ -1,6 +1,19 @@
 #!/usr/bin/python3
 
 def safe_print_list(my_list=[], x=0):
+<<<<<<< HEAD
+    count = 0
+    i = x
+
+    for item in range(i):
+        try:
+            print(f"{my_list[item]}", end="")
+            count += 1
+        except IndexError:
+            break
+    print()
+    return (count)
+=======
     """Print x elememts of a list.
 
     Args:
@@ -20,3 +33,4 @@ def safe_print_list(my_list=[], x=0):
     print("")
     return (ret)
  
+>>>>>>> 69f966ee05059221ac9911ea4871ad8b5f77a395

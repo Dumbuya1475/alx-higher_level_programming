@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+python_hello_world
+=======
 # 0x00. Python - Hello, World
 
 This folder contains a basic introduction of the python programming language.
@@ -30,3 +33,4 @@ This folder contains a basic introduction of the python programming language.
 - [Youtube series](https://www.youtube.com/playlist?list=PLGLfVvz_LVvTn3cK5e6LjhgGiSeVlIRwt)
 - [Pycodestyle guide](https://alx-intranet.hbtn.io/rltoken/zbSpP5Q7q3JUCAWDL2z9Wg)
 - [Understanding The Zen of Python](https://www.youtube.com/watch?v=uBHOb55-fBo)
+>>>>>>> 69f966ee05059221ac9911ea4871ad8b5f77a395

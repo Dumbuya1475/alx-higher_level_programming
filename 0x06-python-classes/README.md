@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+Classes in python
+=======
 # Python - Classes and Objects
 
 ![alt text](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/247/oop-meme.jpg)
@@ -71,3 +74,4 @@ In this project, I began practicing object-oriented programming using classes an
 
 * **10. ByteCode -> Python #5**
   * [103-magic_class.py](./103-magic_class.py): Python function matching exactly a bytecode provided.
+>>>>>>> 69f966ee05059221ac9911ea4871ad8b5f77a395

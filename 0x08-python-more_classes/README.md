@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+Python_class
+=======
 # Project Title
 
 Simple overview of use/purpose.
@@ -62,3 +65,4 @@ Inspiration, code snippets, etc.
 * [dbader](https://github.com/dbader/readme-template)
 * [zenorocha](https://gist.github.com/zenorocha/4526327)
 * [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+>>>>>>> 69f966ee05059221ac9911ea4871ad8b5f77a395
