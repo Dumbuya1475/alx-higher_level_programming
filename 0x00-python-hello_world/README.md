@@ -1,16 +1,10 @@
-<<<<<<< HEAD
-python_hello_world
-=======
 # 0x00. Python - Hello, World
-
 This folder contains a basic introduction of the python programming language.
 
-## Note: When doing this project, After using text editor of your choice to create and access the file on insert mode.Ensure the first line of all your files should be exactly `#!/bin/bash`, then the second line is having the correct command/answer
-
+### Note: When doing this project, After using text editor of your choice to create and access the file on insert mode.Ensure the first line of all your files should be exactly `#!/bin/bash`, then the second line is having the correct command/answer.
 (From your terminal, convert the file created to `SCRIPT` i.e: chmod u+x filename `Else the last checker on task 0 and task 1 won't check`)
 
 ## Contents
-
 - [0-run](0-run) : a Shell script that runs a Python script.
 - [1-run_inline](1-run_inline) : a Shell script that runs Python code.
 - [2-print.py](2-print.py) : a Python script that prints exactly "Programming  is like building a multilingual puzzle, followed by a new line.
@@ -27,10 +21,8 @@ This folder contains a basic introduction of the python programming language.
 - [102-magic_calculation.py](102-magic_calculation.py) : Python function ```def magic_calculation(a, b):``` that does exactly the same as the given Python bytecode
 - [lists.h](lists.h) : contains the header file used in [10-check_cycle.c](10-check_cycle.c)
 
-## Resources
-
+## Resources 
 - [Python documentation](https://docs.python.org/3/tutorial/index.html)
 - [Youtube series](https://www.youtube.com/playlist?list=PLGLfVvz_LVvTn3cK5e6LjhgGiSeVlIRwt)
 - [Pycodestyle guide](https://alx-intranet.hbtn.io/rltoken/zbSpP5Q7q3JUCAWDL2z9Wg)
 - [Understanding The Zen of Python](https://www.youtube.com/watch?v=uBHOb55-fBo)
->>>>>>> 69f966ee05059221ac9911ea4871ad8b5f77a395

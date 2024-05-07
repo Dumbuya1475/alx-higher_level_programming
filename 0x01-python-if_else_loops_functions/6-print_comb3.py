@@ -1,12 +1,9 @@
 #!/usr/bin/python3
-<<<<<<< HEAD
-=======
-# Author - Mohamed Super Dumbuya
->>>>>>> 69f966ee05059221ac9911ea4871ad8b5f77a395
+# Author - Godswill Kalu
 
-for num1 in range(0, 10):
-    for num2 in range(num1 + 1, 10):
-        if num1 == 8 and num2 == 9:
-            print("{}{}".format(num1, num2))
+for digit1 in range(0, 10):
+    for digit2 in range(digit1 + 1, 10):
+        if digit1 == 8 and digit2 == 9:
+            print("{}{}".format(digit1, digit2))
         else:
-            print("{}{}".format(num1, num2), end=", ")
+            print("{}{}".format(digit1, digit2), end=", ")

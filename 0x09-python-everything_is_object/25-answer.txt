@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 False
-=======
-False
->>>>>>> main

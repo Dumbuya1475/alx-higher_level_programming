@@ -1,9 +1,10 @@
-<<<<<<< HEAD
 # 0x0A. Python - Inheritance
 
 As I am diving deeper in Object Oriented Programming (OOP) with python, this project introduce me to the concept of `inheritance`
 
+
 Inheritance is a mechanism in which one class acquires the property of another class. For example, a child inherits the traits of his/her parents. With inheritance, we can reuse the fields and methods of the existing class. Hence, inheritance facilitates Reusability and is an important concept of OOPs.
+
 
 Python has two built-in functions that work with inheritance:
 
@@ -11,8 +12,8 @@ Python has two built-in functions that work with inheritance:
 
 - Use  `issubclass()` to check class inheritance: `issubclass(bool, int)` is `True` since bool is a subclass of int. However, issubclass(float, int) is `False` since `float` is not a subclass of `int`.
 
-In this project, I learnt:
 
+In this project, I learnt:
 - Why Python programming is awesome
 - What is a superclass, baseclass or parentclass
 - What is a subclass
@@ -26,11 +27,8 @@ In this project, I learnt:
 - What is the purpose of inheritance
 - What are, when and how to use isinstance, issubclass, type and super built-in functions
 
-## Resources
 
+# Resources
 - [python documentation](https://docs.python.org/3/tutorial/classes.html#inheritance)
 - [analyticsvidhya.com](https://www.analyticsvidhya.com/blog/2020/10/inheritance-object-oriented-programming/#:~:text=super()%20function-,What%20is%20Inheritance%20in%20Object%20Oriented%20Programming%3F,known%20as%20the%20Parent%20class.)
 - [youtube](https://www.youtube.com/watch?v=d8kCdLCi6Lk)
-=======
-python_inheritance
->>>>>>> main

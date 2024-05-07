@@ -18,11 +18,7 @@ class Rectangle:
     @property
     def width(self):
         """Get/set the width of the Rectangle."""
-<<<<<<< HEAD
-        return self._width
-=======
         return self.__width
->>>>>>> 69f966ee05059221ac9911ea4871ad8b5f77a395
 
     @width.setter
     def width(self, value):
@@ -30,20 +26,12 @@ class Rectangle:
             raise TypeError("width must be an integer")
         if value < 0:
             raise ValueError("width must be >= 0")
-<<<<<<< HEAD
-        self._width = value
-=======
         self.__width = value
->>>>>>> 69f966ee05059221ac9911ea4871ad8b5f77a395
 
     @property
     def height(self):
         """Get/set the height of the Rectangle."""
-<<<<<<< HEAD
-        return self._height
-=======
         return self.__height
->>>>>>> 69f966ee05059221ac9911ea4871ad8b5f77a395
 
     @height.setter
     def height(self, value):
@@ -51,19 +39,6 @@ class Rectangle:
             raise TypeError("height must be an integer")
         if value < 0:
             raise ValueError("height must be >= 0")
-<<<<<<< HEAD
-        self._height = value
-
-    def area(self):
-        """Return the area of the Rectangle."""
-        return (self._width * self._height)
-
-    def perimeter(self):
-        """Return the perimeter of the Rectangle."""
-        if self._width == 0 or self._height == 0:
-            return (0)
-        return ((self._width * 2) + (self._height * 2))
-=======
         self.__height = value
 
     def area(self):
@@ -75,24 +50,12 @@ class Rectangle:
         if self.__width == 0 or self.__height == 0:
             return (0)
         return ((self.__width * 2) + (self.__height * 2))
->>>>>>> 69f966ee05059221ac9911ea4871ad8b5f77a395
 
     def __str__(self):
         """Return the printable representation of the Rectangle.
 
         Represents the rectangle with the # character.
         """
-<<<<<<< HEAD
-        if self._width == 0 or self._height == 0:
-            return ("")
-
-        rct = []
-        for i in range(self._height):
-            [rct.append('#') for j in range(self._width)]
-            if i != self._height - 1:
-                rct.append("\n")
-        return ("".join(rct))
-=======
         if self.__width == 0 or self.__height == 0:
             return ("")
 
@@ -102,4 +65,3 @@ class Rectangle:
             if i != self.__height - 1:
                 rect.append("\n")
         return ("".join(rect))
->>>>>>> 69f966ee05059221ac9911ea4871ad8b5f77a395
